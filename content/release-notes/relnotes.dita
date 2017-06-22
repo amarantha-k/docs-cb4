@@ -58,7 +58,7 @@
                   <p><b>Workaround</b>: In the interim, the recommendation is to perform a full
                     backup if you experience any of the above scenarios. This will lead to longer
                     backup times than performing incremental backups, but will avoid potential data
-                    corruption due to to the aforementioned issue.</p>
+                    corruption due to the aforementioned issue.</p>
                 </entry>
               </row>
               <row>
